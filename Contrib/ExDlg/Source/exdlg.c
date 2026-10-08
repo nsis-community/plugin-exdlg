@@ -8,7 +8,7 @@ ExDLG, Peter Windridge 2001.
 #include <shlobj.h>
 #include <commdlg.h>
 
-#include "../../ExDLL/exdll.h"
+#include "../exdll.h"
 
 //================================================================
 // Compiler Options Definitions
