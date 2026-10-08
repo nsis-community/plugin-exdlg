@@ -26,5 +26,6 @@ jobs:
           name: ExDlg
           sources: |
             Contrib/ExDlg/Source/exdlg.c
+          targets: x86-ansi
           strict: false
           release: ${{ github.event_name == 'release' }}
